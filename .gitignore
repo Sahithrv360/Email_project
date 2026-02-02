@@ -1,3 +1,2 @@
 *.env
 *.db
-Email_access_from_mysql.py
