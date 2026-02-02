@@ -27,3 +27,5 @@ def email_retrival():
 
     sorted_list_emails = [row[0] for row in list_of_emails if row[0] is not None]
 
+    return sorted_list_emails
+
